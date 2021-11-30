@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm anggoro</h1>
-<h3 align="center">im a student and i like about coding and it security. and im a weebs</h3>
+<h3 align="center">im a student, i like about coding and it security.</h3>
 
 - 🌱 I’m currently learning **everything i like**
 - ⚡ Fun fact **i weebs and i just learn i want**
