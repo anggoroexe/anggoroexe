@@ -2,9 +2,6 @@
 <h3 align="center">im a student and i like about coding and it security. and im a weebs</h3>
 
 - 🌱 I’m currently learning **everything i like**
-
-- 👨‍💻 All of my projects are available at [anggoro.now.sh](anggoro.now.sh)
-
 - ⚡ Fun fact **i weebs and i just learn i want**
 
 <h3 align="left">Connect with me:</h3>
