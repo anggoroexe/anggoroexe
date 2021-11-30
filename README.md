@@ -2,7 +2,7 @@
 <h3 align="center">im a student, i like about coding and it security.</h3>
 
 - 🌱 I’m currently learning **everything i like**
-- ⚡ Fun fact **i weebs and i just learn i want**
+- ⚡ Fun fact **i weebs and i so love nagato yuki her my waifu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
