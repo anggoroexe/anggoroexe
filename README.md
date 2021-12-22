@@ -10,7 +10,7 @@
 </pre>
 
 ## 🚀 About Me!
-My name is Lilo Anggoro. I am a new internet enthusiast. I was born in Pekalongan, july 2004. My hobbies are reading manga, watching anime movie, programming. I am a person who is difficult to understand other people, but I try to always be there for everyone. Yep, that’s all that I can tell about myself. Thank you.
+My name is Lilo Anggoro. I am a new internet enthusiast. I was born in Pekalongan, july 2004. My hobbies are reading manga, watching anime movie, programming and learn some about tech and security xD. I am a person who is difficult to understand other people, but I try to always be there for everyone. Yep, that’s all that I can tell about myself. Thank you.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
