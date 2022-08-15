@@ -18,7 +18,6 @@ My name is Lilo Anggoro. I am a new internet enthusiast. I was born in Pekalonga
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anggoro_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anggoro_exe" height="30" width="40" /></a>
-<a href="https://web.facebook.com/anggoroexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idk.anggoro" height="30" width="40" /></a>
+<a href="https://twitter.com/anggoro_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anggoro_exe" height="30" width="40" />
 <a href="https://instagram.com/anggoro.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anggoro.exe" height="30" width="40" /></a>
 </p>
